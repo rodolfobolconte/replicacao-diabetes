@@ -1,0 +1,28 @@
+{
+    "id": "52DD4F3C",
+    "path": "A:/Downloads/fpcc2/replicacao-diabetes/code/2-execucao-modelos.Rmd",
+    "project_path": "code/2-execucao-modelos.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1624755765034.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "121,0",
+        "scrollLine": "101"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1624916713,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1624916713414,
+    "read_only": false,
+    "read_only_alternatives": []
+}
